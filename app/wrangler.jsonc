@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "markdownsitebuilder",
+  "compatibility_date": "2026-04-09",
+  "main": "src/index.ts",
+  "assets": {
+    "directory": "./public"
+  }
+}
